@@ -1,7 +1,10 @@
 # Document-MultiLabel-Classification
-Multilabel classification on Reuters-21578 Dataset on 5 labels (unbalanced)  using various models
-relevent labels = 
+Multilabel classification on Reuters-21578 Dataset on 5 labels (unbalanced)  using various models\n
+
+relevent labels = (MONEY-FX) , (SHIP) , (INTEREST) , (ACQ) , (EARN)
 ## Class balance :
+
+![alt text](https://i.ibb.co/Ycy3hjV/t-l-chargement.png)
 
 ## Results :
 
